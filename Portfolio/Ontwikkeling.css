@@ -13,3 +13,41 @@ body{
     position: fixed;
     border: 5px solid white;
 }
+h1.titel{
+text-align: center;
+position: absolute;
+right: 0;
+left: 0;
+color: white;
+font-size: 100px;
+font-family: Calibri, serif;
+border-bottom: 4px solid white;
+}
+table.ontwikkeling{
+    top: 25%;
+    left: 15%;
+    right: 15%;
+    margin: 0;
+    text-align: center;
+    position: absolute;
+    width: 70%;
+}
+td.vragen{
+    height: 120px;
+    text-align: center;
+    color: white;
+    font-family: Calibri, serif;
+    font-size: 60px;
+    left: 0;
+    right: 0;
+}
+td.tekst{
+    height: 60px;
+    text-align: center;
+    color: white;
+    font-family: Calibri, serif;
+    font-size: 40px;
+    border-bottom: 2px solid white;
+    left: 0;
+    right: 0;
+}
