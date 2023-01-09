@@ -1,0 +1,99 @@
+body{
+    background: url("AchtergrondP.jpg");
+}
+h1.hfdpagina{
+    font-family: Calibri, serif;
+    left: 6%;
+    top: 4%;
+    color: white;
+    font-size: 260px;
+    position: absolute;
+}
+p.hfdnaam{
+    font-family: Calibri, serif;
+    font-weight: lighter;
+    font-size: 82px;
+    position: fixed;
+    top: 462px;
+    left: 6.5%;
+    color: white;
+    margin-top: 0;
+}
+p.hfdstudent{
+    font-family: Calibri, serif;
+    font-weight: lighter;
+    top: 500px;
+    font-size: 50px;
+    position: fixed;
+    left: 6.8%;
+    color: white;
+}
+p.hfdinleiding{
+    font-family: Calibri, serif;
+    font-weight: lighter;
+    font-size: 35px;
+    position: fixed;
+    top: 685px;
+    left: 6.8%;
+    color: white;
+    right: 40%;
+}
+ul.hfdmenu{
+    left: 0;
+    top: 0;
+    bottom: 0;
+    max-width: 3%;
+    background-color: black;
+    position: fixed;
+    min-height: 100%;
+    border-right: 7px solid #131313;
+    margin: 0;
+}
+li{
+    list-style: none;
+}
+.hfditemsmenu{
+    transform: translate(0,100%) rotate(-90deg);
+    transform-origin: 0 0;
+    font-family: Calibri, serif;
+    font-size:18px;
+    padding-bottom: 100px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+img.fotozelf{
+    left: 14%;
+    position: fixed;
+    top: 22px;
+}
+.hfdhomeknop{
+    transform: translate(0,100%) rotate(-90deg);
+    transform-origin: 0 0;
+    font-family: Calibri, serif;
+    font-size:18px;
+    padding-bottom: 30px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+.hfdinfo{
+    transform: translate(0,100%) rotate(-90deg);
+    transform-origin: 0 0;
+    font-family: Calibri, serif;
+    font-size:18px;
+    padding-bottom: 55px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+.hfdcv{
+    transform: translate(0,100%) rotate(-90deg);
+    transform-origin: 0 0;
+    font-family: Calibri, serif;
+    font-size:18px;
+    padding-bottom: 55px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
