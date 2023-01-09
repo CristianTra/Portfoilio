@@ -191,6 +191,7 @@ td{
     color: white;
     background:#2b2b2a ;
     position: fixed;
+    border: 5px solid white;
 }
 @media screen and (max-width: 1000px) {
     .fotocv {

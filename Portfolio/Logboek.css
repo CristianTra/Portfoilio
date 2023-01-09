@@ -1,3 +1,6 @@
+body{
+    background: url("achtergrondport.png");
+}
 .hfdhomeknop{
     font-family: Calibri, serif;
     font-size:18px;
@@ -6,6 +9,56 @@
     text-decoration: none;
     justify-content: left;
     color: white;
-    background:#2b2b2a ;
+    background:black;
     position: fixed;
+    border: 5px solid white;
+}
+h1.titel{
+    text-align: center;
+    position: fixed;
+    right: 0;
+    left: 0;
+    color: white;
+    font-size: 100px;
+    font-family: Calibri, serif;
+    border-bottom: 4px solid white;
+}
+h2.tussentitels{
+    text-align: center;
+    position: fixed;
+    color: white;
+    top:20%;
+    left: 0;
+    right: 0;
+    font-size: 65px;
+    font-family: Calibri, serif;
+    text-underline: white;
+    font-weight: lighter;
+}
+td.tekst {
+    text-align: center;
+    color: white;
+    font-family: Calibri, serif;
+    font-size: 25px;
+    border-bottom: 2px solid white;
+}
+td.datum{
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+    font-family: Calibri, serif;
+    font-size: 22px;
+}
+table.planning{
+    top: 35%;
+    left: 15%;
+    right: 15%;
+    margin: 0;
+    text-align: center;
+    position: fixed;
+    width: 70%;
+}
+tr, td{
+    height: 20px;
+    text-align: center;
 }
