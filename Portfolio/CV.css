@@ -181,6 +181,17 @@ td{
 .dropdownmenu:hover .socials {
     display: block;
 }
+.hfdhomeknop{
+    font-family: Calibri, serif;
+    font-size:18px;
+    padding: 20px;
+    right: 95%;
+    text-decoration: none;
+    justify-content: left;
+    color: white;
+    background:#2b2b2a ;
+    position: fixed;
+}
 @media screen and (max-width: 1000px) {
     .fotocv {
         top: 32%;
@@ -261,4 +272,5 @@ td{
     .socialknop{
         display: none;
     }
+
 }

@@ -1,0 +1,11 @@
+.hfdhomeknop{
+    font-family: Calibri, serif;
+    font-size:18px;
+    padding: 20px;
+    right: 95%;
+    text-decoration: none;
+    justify-content: left;
+    color: white;
+    background:#2b2b2a ;
+    position: fixed;
+}
